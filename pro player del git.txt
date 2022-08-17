@@ -1,0 +1,4 @@
+git init para iniciar la carpeta del proyect
+git status muestra el estado de las carpetas dentro del proyecto
+git add para agregar todos los cambios del proyecto
+"git add ." para agregar TODOS los archivos y carpetas al proyecto
