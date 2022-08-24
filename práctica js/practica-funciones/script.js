@@ -8,12 +8,14 @@ function suma(num1,num2,num3=20){
 suma(5,3,6) //Ese tercer  parámetro (en este caso el 6) cambiará el valor del num3 a 6 en lugar de 20
 
 //2) FUNCIÓN EXPRESIÓN ANÓNIMA
+//CON ESTA SE PUEDE USAR EL .this
 
 const suma2 = function(num1,num2){
     return num1+num2
 }
 
 //3 FUNCIÓN FLECHA (ARROW FUNCTION)
+//CON ESTA FUNCION NO SE PUEDE USAR EL .this
 
 const resta = (num1,num2)=>{
     return num1-num2
