@@ -9,7 +9,7 @@ suma(5,3,6) //Ese tercer  parámetro (en este caso el 6) cambiará el valor del 
 
 //2) FUNCIÓN EXPRESIÓN ANÓNIMA
 
-const suma = function(num1,num2){
+const suma2 = function(num1,num2){
     return num1+num2
 }
 
@@ -19,7 +19,7 @@ const resta = (num1,num2)=>{
     return num1-num2
 }
 //TAMBIÉN SE PUEDE HACER DE LA SIGUIENTE FORMA CUANDO EL RETORNO SE HACE EN UNA SOLA LINEA
-const suma2 = (num1,num2)=> num1+num2 
+const suma3 = (num1,num2)=> num1+num2 
 //ESTE RETURN ES IMPLÍCITO Y SÓLO FUNCIONA CON LA FUNCIÓN FLECHA
 
 //No se le pone nombre a la función
