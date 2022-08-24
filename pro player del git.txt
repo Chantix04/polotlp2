@@ -1,4 +1,12 @@
+(EN LA TERMINAL)
+MD = MAKE DIRECTORY
+CD = CHANGE DIRECTORY
+LS = ABRIR GIT
+(EN GIT)
+git remote -b para ver si nuestro repositorio está en la nube
 git init para iniciar la carpeta del proyect
 git status muestra el estado de las carpetas dentro del proyecto
 git add para agregar todos los cambios del proyecto
 "git add ." para agregar TODOS los archivos y carpetas al proyecto
+
+

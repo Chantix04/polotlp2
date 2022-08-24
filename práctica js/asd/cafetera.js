@@ -147,16 +147,16 @@ console.log(user)
 //     console.log(key)
 // }
 
-let prodAlgodon ={
-    pirane:420,
-    laishi:100,
-    ibarreta:250,
-    "Palo Santo":120
-}
-//ESCRIBIR EL CODIGO PARA SUMAR TODAS LAS CANTIDADES Y ALMACENA EL RESULTADO
-//EN LA VARIABLE SUM
-let sum=0;
-for(key in prodAlgodon){
-    parseInt(sum=sum+key)
-}
-console.log(sum)
+// let prodAlgodon ={
+//     pirane:420,
+//     laishi:100,
+//     ibarreta:250,
+//     "Palo Santo":120
+// }
+// //ESCRIBIR EL CODIGO PARA SUMAR TODAS LAS CANTIDADES Y ALMACENA EL RESULTADO
+// //EN LA VARIABLE SUM
+// let sum=0;
+// for(key in prodAlgodon){
+//     parseInt(sum=sum+prodAlgodon[key])
+// }
+// console.log(sum)
